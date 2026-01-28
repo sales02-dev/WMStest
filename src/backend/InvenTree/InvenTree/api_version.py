@@ -1,10 +1,13 @@
 """InvenTree API version information."""
 
 # InvenTree API version
-INVENTREE_API_VERSION = 443
+INVENTREE_API_VERSION = 444
 """Increment this API version number whenever there is a significant change to the API that any clients need to know about."""
 
 INVENTREE_API_TEXT = """
+
+v444 -> 2026-01-28 : https://github.com/inventree/InvenTree/pull/10983
+    - Adds an API to gather dynamic price information for a Part
 
 v443 -> 2026-01-21 : https://github.com/inventree/InvenTree/pull/11177
     - Adds IPN ordering option for BomItem API endpoint
