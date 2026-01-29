@@ -6,7 +6,8 @@ INVENTREE_API_VERSION = 443
 
 INVENTREE_API_TEXT = """
 
-v443 -> 2026-01-21 : https://github.com/inventree/InvenTree/pull/11177
+v443 -> 2026-01-28 : https://github.com/inventree/InvenTree/pull/10715
+    - Adds GuideDefinition and GuideExecution models and API endpoints to provide tipps and guides within InvenTree's web frontend.v443 -> 2026-01-21 : https://github.com/inventree/InvenTree/pull/11177
     - Adds IPN ordering option for BomItem API endpoint
     - Adds IPN ordering option for BuildLine API endpoint
 
